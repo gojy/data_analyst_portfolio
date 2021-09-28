@@ -5,5 +5,5 @@ Data Analyst Portfolio
 Data Source: https://ourworldindata.org/covid-deaths 
 
 사용 툴:
-MySQL (영상에서는 Microsoft SQL을 사용하였으나 작업환경이 Mac이며 많이 알려진 RDBMS인 MySQL 경험을 늘리고자 선택)
+MySQL (영상에서는 Microsoft SQL을 사용하였으나 MySQL 경험을 늘리고자 선택)
 
